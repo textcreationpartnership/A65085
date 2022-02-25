@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings Most Excellent Majesty and to the Lords spiritual and temporal, with the Commons assembled in Parliament : a true discovery of the great damage His Late Majesty, King Charles the First, received by Sir Paul Pindar and the rest of the comminssioners in their managing His Late Majesties impost and custom, from the year 1626 to 1639 ... : here is likewise humbly offered to Your Majesty and the Parliament a modell for collecting Your Majesties customes for the future / by Thomas Violet.</title>
+            <author>Violet, Thomas, fl. 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65085</idno>
+            <idno type="STC">Wing V586</idno>
+            <idno type="STC">ESTC R28373</idno>
+            <idno type="EEBO-CITATION">10581084</idno>
+            <idno type="OCLC">ocm 10581084</idno>
+            <idno type="VID">45257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1391:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings Most Excellent Majesty and to the Lords spiritual and temporal, with the Commons assembled in Parliament : a true discovery of the great damage His Late Majesty, King Charles the First, received by Sir Paul Pindar and the rest of the comminssioners in their managing His Late Majesties impost and custom, from the year 1626 to 1639 ... : here is likewise humbly offered to Your Majesty and the Parliament a modell for collecting Your Majesties customes for the future / by Thomas Violet.</title>
+                  <author>Violet, Thomas, fl. 1634-1662.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  To 1688.</term>
+               <term>Coinage --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45257:1" rendition="simple:additions"/>
+            <p>TO THE KINGS MOST Excellent Majeſty, And to the LORDS Spiritual and Temporal; with the COMMONS Aſſembled in <hi>PARLIAMENT.</hi>
+            </p>
+            <p>A true Diſcovery of the great Damage His late <hi>Majeſty</hi> King <hi>Charles</hi> the Firſt received, by Sir <hi>Paul Pindar,</hi> and the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners, in their managing His late <hi>Majeſties</hi> Impoſt and Cuſtom, from the year 1626. to 1639. humbly preſented to your <hi>Majeſty</hi> by eſpecial Com<g ref="char:EOLhyphen"/>mand of your Royal Father of Bleſſed Memory.</p>
+            <p>Here is likewiſe humbly offered to your MAJESTY, and the <hi>Parliament,</hi> a Modell for Collecting Your MAJESTIES Cuſtomes for the Future, for the preventing former abuſes, which will advance Your MAJE<g ref="char:EOLhyphen"/>STIES Cuſtomes above One hundred thouſand pounds a Year more then was made 1660. if it be duly put in execution.</p>
+            <p>By <hi>Thomas Violet</hi> of <hi>London</hi> Goldſmith.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:45257:2"/>
+            <pb n="1" facs="tcp:45257:2"/>
+            <head>TO THE KINGS MOST EXCELLENT MAJESTY. The Humble Petition of <hi>Thomas Violet</hi> of <hi>London,</hi> Goldſmith.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT Your Petitioner, <note place="margin">Anno. 1647. Your Majeſties Royal Father, writ His Royal Letter from Hampt. Court to Sir Lewis Dives, to re<g ref="char:EOLhyphen"/>quire him to acquaint your Majeſty, that your Royall Father deſired your Majeſty to keep a care<g ref="char:EOLhyphen"/>ful watch on His Cuſtomes, and Farmers of His Cuſtomes, that ſo You might prevent the former a<g ref="char:EOLhyphen"/>buſes put on Your Royall Father in the managing of His Cuſtomes, apprehending, and finding he had bin wrong<g ref="char:EOLhyphen"/>ed many hun<g ref="char:EOLhyphen"/>dred thouſand pounds in His Cuſtoms from 1626. to 1939. and was one principal cauſe of the mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chiefs that befell Him.</note> when hee was a Pri<g ref="char:EOLhyphen"/>ſoner in the <hi>Tower</hi> with Sir <hi>Lewis Dives,</hi> Knight, did make him acquainted, That Your Royal Father of Bleſſed Memory, did ſend for Your Petitioner to <hi>Hampton Court</hi> ſome few daies, before He was removed to the Iſle of <hi>Wight,</hi> and it was to give Him an accompt of the management of His Cu<g ref="char:EOLhyphen"/>ſtomes, from 1626. to 1639. which bu<g ref="char:EOLhyphen"/>ſineſs Your Petitioner delivered in writing to His ſaid MA<g ref="char:EOLhyphen"/>JESTY.</p>
+            <p>And upon Your MAJESTIES happy Arrival, (as ſoon as Sir <hi>Lewis Dives</hi> came over into <hi>England</hi>) Your Petitioner revived the ſaid buſineſs to Sir <hi>Lewis,</hi> and deſired him to acquaint Your MA<g ref="char:EOLhyphen"/>JESTY therewith, that ſo Your Petitioner might know Your Royal Pleaſure.</p>
+            <p>Sir <hi>Lewis Dives</hi> having imparted the ſame to Your MAJESTY, You commanded the Form or Modell, which Your Petitioner deli<g ref="char:EOLhyphen"/>vered to Your Royall Father, to be brought in to Your MAJESTY, which accordingly is herewith humbly Preſented.</p>
+            <p>Your Petitioners humble prayer is, That in regard of the great and weighty affairs that now lye before Your MAJESTY, the Approaching Parliament, <hi>&amp;c.</hi> Your MAJESTY will vouchſafe to refer the Examination of the ſaid Modell
+<pb n="2" facs="tcp:45257:3"/>unto the Right Honourable <hi>Edward</hi> Earl of <hi>Clarendon,</hi> Lord High Chancellour of <hi>England, Thomas</hi> Earl of Southampton, Lord High Treaſurer of <hi>England,</hi> and the Lord <hi>Roberts</hi> of <hi>Truro,</hi> or any two of them, and they to certifie Your MA<g ref="char:EOLhyphen"/>JESTY their Opinion concerning the ſaid Modell, with what expedition they can. And in the mean time that preſent Order be taken, That no Perſon or Perſons Farm the ſaid Cuſtomes; And that Sir <hi>Lewis Dives,</hi> and the Petitioner, do attend their Lordſhips, with any other Additions thereunto, for Your MAJESTIES ſervice.</p>
+            <closer>And your Petitioner ſhall pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="document">
+            <head>At the Court at <hi>Whitehall</hi> the <hi>14<hi rend="sup">th</hi>
+               </hi> of <hi>May. 1661.</hi>
+            </head>
+            <p>HIS MAIESTY is pleaſed to refer this Petition to the Right Honourable the Earl of <hi>Clarendon,</hi> Lord High Chancellour of <hi>England,</hi> the Lord High Treaſurer of <hi>England,</hi> and the Lord <hi>Roberts,</hi> or any two of them, who are to take the ſame together with the ſaid Model for regulate<g ref="char:EOLhyphen"/>ing the Cuſtomes into conſideration; and thereupon certifie His MAIESTIE their Lordſhips Opinion thereof, and what is fit to be done therein, for the good of His MAIESTIES Service.</p>
+            <closer>
+               <signed>Edward Nicholas.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:45257:3"/>
+            <head>AN INSTRUMENT FOR THE SETTLEMENT OF YOUR Majeſties Cuſtomes BY COMMISSIONERS, FOR THE Future preventing thoſe intollerable abuſes, and unneceſſary Expences, now put up<g ref="char:EOLhyphen"/>on your Majeſty in the Cuſtom Houſes; to your Majeſties Damage above one hundred thouſand pounds a year, ſince your Majeſties happy Arrival, 1660.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat if Your Majeſty pleaſe to ſettle the Cuſtoms for the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> by Commiſſioners, thoſe more or leſſe at your Majeſties pleaſure, and at the Sallary of 1000 <hi>l. per an.</hi> each Commiſſioner, that then theſe Commiſſioners be upon Oath to do your Majeſty all ſaithful ſervice, and for better diſpatch to ſit twice dayly, except in caſe of Sickneſs, Feſtivals, and the Sabbath, and to the utmoſt of their skill to diſcover the beſt improve<g ref="char:EOLhyphen"/>ment can be made of your Majeſties Cuſtoms; Amongſt whom moſt eſpe<g ref="char:EOLhyphen"/>cial care muſt be had for the placing ſome of moſt approved integrity and
+<pb n="4" facs="tcp:45257:4"/>diligence, by which means, much of the dudue practiſes paſt may be un<g ref="char:EOLhyphen"/>folded: the moſt unneceſſary number of your Officers which now not only uſeleſly take wages, but alſo many of them defraud by themſelvs, and by their conſents your Majeſty twenty times as much as their ſees, that theſe weeds be plucked up, and a certain way for the future ſo plainly directed, as that monthly your Majeſty may plainly ſee the conſtant In<g ref="char:EOLhyphen"/>com of your Cuſtoms, and ſo ordered, that your Majeſty ſhall yearly ſee the ballance of Trade, whether you import more forein goods then you export Engliſh; and how the ſtock of the Kingdom in money decreaſeth.</p>
+            <p n="2">2. In order to this Regulation, it is abſolutely neceſſary that no per<g ref="char:EOLhyphen"/>ſon be admitted into your Majeſties ſervice in any employment in the Cuſtom houſe, but ſuch as have eſtates, and alſo do give good ſecurity by ſufficient bond-men, to make good any error or fraud in accounts, or whatever other deceipt or damage in Cuſtoms they ſhall knowingly ſuf<g ref="char:EOLhyphen"/>fer to be committed.</p>
+            <p n="3">3. That no man be admitted to compound for forfeited goods, or have any writ of delivery out of the Exchequer under any pretext whatever, but that ſuch fines and further puniſhments be inflicted as ſhall be ne<g ref="char:EOLhyphen"/>ceſſary to deter them ſtealing, or for the future owning what ſhall be diſcovered to have been ſtoln, 'tis ſo at <hi>Venice,</hi> in <hi>Spain,</hi> and elſwhere, and the ſharper the law is, it is the better for honeſt Merchants that make a conſcience to ſteal Cuſtom, there are many Merchants that never ſtole Cuſtom in their lives.</p>
+            <p n="4">4. That the Receivers, Treaſurers, Controlers, and their Clarks, even their accounts twice a week at leaſt, and that the Commiſſioners of the Cuſtoms do ballance their accompts with the Lord Treaſurer every month, the firſt day of every month to give up a new accompt, the bal<g ref="char:EOLhyphen"/>lance of the accompt to be delivered to his Majeſty, ſigned by all the Com<g ref="char:EOLhyphen"/>miſſioners; by which means your Majeſty will ſee every day and month in the year your Revenue, and alſo the great miſchief in not keeping the ballance of Trade, will be as eaſily remedyed in having diſtinct books and accompts unmingled, ſeverally kept, of exportation by themſelvs, and importation by themſelvs, when all Cuſtom accompts be kept after the Italian way, every charge given to have his counter diſcharge, decla<g ref="char:EOLhyphen"/>ring the grounds and reaſons of either; This may be throughly exami<g ref="char:EOLhyphen"/>ned to all particulars, and that future order be taken that the Cuſtoms and moneys ariſing thereby, may be juſtly and truly anſwered into the exchequer once monthly, and accompted for.</p>
+            <p n="5">5. The great miſchief and abuſes amongſt your Majeſties Servants, is not committed by Commiſſioners above ſtairs, they cannot ſo eaſily coſen in falſe entryes; the wrong is done by confederation 'twixt waiters, Searchees, Tides-men, Porters, Wharfingers, and the Merchants below
+<pb n="5" facs="tcp:45257:4"/>ſtairs; theſe can ſuffer the Merchants to ſteal Cuſtom by groſſe,
+<note place="margin">Any Water Porter, Pa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Wharfinger Carman, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſmith, or Perſons, ſhall be pri<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the tranſpor<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Gold or Sil<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or packing the ſame ſha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pardoned ſo much as <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> confeſs, prov<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they be the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> diſcoverers <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fore ſix ho<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſeizure or in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mation by <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> other perſo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they ſhall h<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> one full moy<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of all ſuch G<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Silver, Merchandiz<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they ſhall ſe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on, and brin<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> into the Ki<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Warehouſe a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> foreſaid, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have their p<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dons for a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as they diſcov<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> or re<g ref="char:EOLhyphen"/>tail, either all or in part, or by entering their goods falſe, one Mer<g ref="char:EOLhyphen"/>chandiſe for another, to avoid this there muſt be ſevere puniſhments for the offendors, and as ample reward for diſcoverers, and theſe ſetled by Act of Parliament, and Tables hung up with Rules for every man.</p>
+            <p n="6">6. I humbly propoſe, that there be two Balletine Boxes, as there is at <hi>Venice</hi> this day, made to reſt, the one in the Cuſtom-houſe, the other near the Exchange, that they be under foure Keyes of men of beſt ap<g ref="char:EOLhyphen"/>proved integrity, and that publick notice be given to all people for the making of diſcoveries, that whoſoever ſhall prove by good teſtimony your Majeſty to be cheated by Merchants ſervants, and Officers in the Cuſtom-houſe, or others, ſhall have one moietie of all ſuch goods ſo forfeited for their pains, and alſo ſuch further emploiment as they ſhall be found capable of, that it be alſo ordered every man to deliver in his information, ſealed and ſubſcribed with his name, the place of his a<g ref="char:EOLhyphen"/>bode, the fact when, how, and where committed: That a Commiſſi<g ref="char:EOLhyphen"/>on be delivered to the Lord Treaſurer, Lord Chancellor of the Ex<g ref="char:EOLhyphen"/>chequor, and the Lords chief Baron, and the reſt of the Barons of the Exchequer, to impanel a Jury of thirty ſix Gentlemen of quality, not Tradeſmen, or Merchants, to avoid partiality, the firſt day of every Terme, to be returned by the Sheriffs of <hi>London, Middleſex, Kent, Eſſex</hi> and <hi>Surrey,</hi> all-dwelling diſtant not above five miles from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> out of which to have twelve ſtand by lot, the twelve to chooſe their Foreman, and that the ſaid Jury be ſworn to repreſent all ſuch matter, and only ſuch as ſhall be found ſerious, and for His Majeſties ſervice, and on good information and full evidence given, to deliver up their true verdict to the Lord Treaſurer, and the Barrons of the Ex<g ref="char:EOLhyphen"/>chequer, ſigned with their reſpective hands in a fair Parchment Roll up<g ref="char:EOLhyphen"/>on Oath; that each reſpective Jury-man ſo ſerving have ten ſhillings a day out of forfeitures ariſing by diſcoveries due unto Your Majeſty, ſo made as aforeſaid.</p>
+            <p n="7">7. And that every reſpective Officer hereafter relating to any ſervice in the Cuſtom-houſe of the Ports of <hi>London,</hi> or elſe where, ſhall ſwear be<g ref="char:EOLhyphen"/>fore two of the Commiſſioners appointed for that ſervice, That for the time to come, they ſhall not ſee, or ſuffer any manner of goods, coming from parts beyond Seas, to be layed on Land without Bill or Warrant of the accuſtom'd Officers of the Cuſtom-houſe, without ſeizing the ſame goods ſo landed, according to the Statute. The ſame Oath to be given for preventing the ſhipping of uncuſtomed Commodities without lawful Cocket.</p>
+            <p n="8">8. And for the better breaking away all confederacy as aforeſaid, it is expedient that it ſhould be at the Commiſſioners pleaſure, to make
+<pb n="6" facs="tcp:45257:5"/>the under Officers twice or thrice a year, as occaſion of diſtruſt is given, to caſt lots for the removing of their Stations, as chance ſhall guide them.</p>
+            <p n="9">9. That care be had for putting in execution the Statute of Queen <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi> in which the Company of Wherry-men took order, that the Maſters and Wardens of the ſaid Company were bound in the Exche<g ref="char:EOLhyphen"/>quer, that neither they, nor any of the Company of Watermen, their ſervants Boats or Wherreys, ſhould carry in, or fetch from any Ship coming in, or going out of the Kingdom, any goods or merchandiſe, except ſuch as were forfeit, which ſhould be brought to Land by the Officer pertaining to the Port of <hi>London,</hi> which Wares ſhould be regi<g ref="char:EOLhyphen"/>ſtred in the Ware-houſe, in the Cuſtom-houſe of the Port of <hi>London.</hi>
+            </p>
+            <p n="10">10. And that all Liter-men, Carmen, Crane-Keepers, Brewers and Wharfingers, within four miles of <hi>London,</hi> be bound in the Exchequer never to lade or unlade on land or on ſhipboard, any Wares, or Beer in the night, nor in the day time, into any Ship or Veſſel, but in the pre<g ref="char:EOLhyphen"/>ſence of the Searcher, or Officer there preſent, with the Cocket thereof.</p>
+            <p n="11">11. That an exact Regiſter Book of all Bonds taken to Your Majeſty be kept, and all Bonds to remain in the Cuſtody of the Commiſſioners for the time being, that no bond be delivered but by the conſent of three of the Commiſſioners, and the reaſons recorded for which the bond was cancel'd, and that Book be yearly delivered into the Exchequor.</p>
+            <p n="12">12. That all Bonds after they are duly proved, forfeited, the next Tearm be delivered into the Barrons of the Exchequer; and a particu<g ref="char:EOLhyphen"/>lar Liſt of the Names and valew of them to my Lord Treaſurer, and the Attorney General, that ſo the penalties may be duly levyed.</p>
+            <p n="13">13. That the Statute be put in Execution, forbidding all Maſters of any Ship or Veſſel, to break Bulke, or put aſhore out of his Ship or Veſſel any goods or merchandize in any Creek or by-place, Fiſher-Boat or o<g ref="char:EOLhyphen"/>ther Veſſel, Waggon, Cart, or Coach, before hee have made his entry of his ſaid Ship and goods, the ſaid Maſter ſhall not onely loſe the goods ſo ſeized, but ſhall alſo forfeit his Ship, with fine, and im<g ref="char:EOLhyphen"/>priſonment of him that hath conſented thereto.</p>
+            <p n="14">14. That it be hereafter declared, what places in <hi>London</hi> are or ſhall be permitted lawful Keys and Wharfs to lade and unlade goods and merchandize, and all other places prohibited about <hi>Graves-End, Bark<g ref="char:EOLhyphen"/>ing, Greenhive, Wolledge, Blackwall, Dedford, Limehouſe, Wapping,</hi> St. <hi>Katherines, Southwark, London-Bridge, Lambeth, Bankſide,</hi> &amp;c. And alſo to appoint what Commodities ſhall be lawful to lade or un<g ref="char:EOLhyphen"/>lade at each Wharfe, or landing place, always ordering that thoſe goods of greateſt bulk and leaſt valew, be taken up, or put on ſhip<g ref="char:EOLhyphen"/>board
+<pb n="7" facs="tcp:45257:5"/>at Wharfes furtheſt diſtant from the Cuſtom-houſe of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <p n="15">15. Ever having eſpecial care for the future, that all Silks, Satins, Cambricks, Launs, and all forreign Laces, Thred, or Silk, rich drugs, Pearls, Ambergreeſe, Bezar-ſtones, Sivet Musk, Diamonds, and all ſorts of precious Stones and Jewels, together with all ſorts of rich Commodities, of ſmall bulk, be for ever hereafter unladen in the Ware-houſe of the Cuſtom-houſe of <hi>London,</hi> and no where elſe, there to be kept till ſworn Prizers that ſhall be expreſly appointed for that purpoſe, and ſworn im<g ref="char:EOLhyphen"/>partially to valew all ſuch goods and merchandize as aforeſaid, do prize the ſame.</p>
+            <p n="16">16. Alſo appointing a Seal (ſuch as my Lord Treaſurer ſhall think fit) for ſuch fine Commodities as will bear either Lead or Wax; Or elſe a Certificate to be given to the parties claiming the goods, of the quanti<g ref="char:EOLhyphen"/>ties of which the Cuſtomes are ſatisfied.</p>
+            <p n="17">17. That a Proclamation paſs, That (theſe fine merchandizes, and all others that ſhall upon the view of the Book of Rates, by the Lord Treaſurer be appointed) after ſuch a day ſhall not be expoſed to ſale, till they be ſealed as aforeſaid; Or that they ſee a Certificate of the Com<g ref="char:EOLhyphen"/>miſſioners of the Cuſtom-houſe, of the Cuſtoms of ſuch goods as are duly ſatis<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied at the Cuſtom-houſe, under the penalty of three months impri<g ref="char:EOLhyphen"/>ſonment of the Perſon ſo buying any of the Commodities as aforeſaid, together with the forfeiture of the equal valew of ſuch wares ſo bought as aforeſaid, and that all Shop keepers and others, buying any ſuch fine goods as aforeſaid, ſhall endorſe on the Certificate of the Commiſſion<g ref="char:EOLhyphen"/>ers of the Cuſtom-houſe his name, ſhop, and place of abode, and the quantity, and time when ſuch goods were bought as aforeſaid.</p>
+            <p n="18">18. And that it may be lawful for any perſon, neither finding the Seal, or good Certificate of the Merchant from whom he bought ſuch Commodities; that they were ſuch parcels of ſuch fine goods brought in ſuch a Ship, the Cuſtoms whereof were duly ſatisfied by himſelf (inſerting his name and place of abode, at ſuch a time, as by his Cer<g ref="char:EOLhyphen"/>tificate from the Commiſſioners of the Cuſtom-houſe may appear) I ſay it may be lawful for any perſon, not finding Seal or Certificate, as aforeſaid, to ſeize all ſuch fine goods or wares, the one half to his Majeſties uſe, the other to the Perſons uſe that can diſcover ſuch uncu<g ref="char:EOLhyphen"/>ſtomed goods as aforeſaid, and to depoſit them in the publick Ware-houſe in the Cuſtom-houſe, till due proofs are made touching all the Pre<g ref="char:EOLhyphen"/>miſes.</p>
+            <p n="19">19. That all Ships, Pinks, and other Veſſels, when firſt they come into the Port of <hi>London,</hi> bringing fine goods, be appointed a certain place to ride at in the <hi>Thames,</hi> where ſome Poſts or Chains may be
+<pb n="8" facs="tcp:45257:6"/>ſixt for that purpoſe diſtant from the ſhore, and a Boat or more, and guard if occaſion need, may watch and ſwim round to ſearch all perſons going in, and coming forth with fine goods uncuſtom'd out of the ſaid Veſſels.</p>
+            <p n="20">20. That for the future to have all the Cocquets printed and fill'd up, would eaſe much trouble both to the Cleark and Merchants, and be altogether as ſafe; It is ſo at ſeveral forreign Ports.</p>
+            <p n="21">21. It muſt be perpetual impriſonment, forfeiture of Eſtate, and corporal puniſhment beſides, to counterfeit the King's Seal for fine goods, or Commiſſioners Certificates for cuſtomed goods.</p>
+            <p n="22">22. Every Merchant ſtranger, that would enter any goods inward, being no Deniſon, ſhall be bound to employ the return of his Com<g ref="char:EOLhyphen"/>modities according to the Statue, by Bonds taken, <hi>&amp;c.</hi>
+            </p>
+            <p>The Frame of the Modell corrected by ſuch alterations and aditions, as the High Court of Parliament ſhall think fit, will ſave your Ma<g ref="char:EOLhyphen"/>jeſty a hundred thouſand pounds yearly, of which your Majeſty hath been defrauded by ſeveral indirect practiſes of the Officers of the Cuſtoms, and Merchants of London, their Servants, and their Ad<g ref="char:EOLhyphen"/>herents; 1660. All which I humbly ſubmit to your Majeſty and the Parliament, to do therein as you ſhall think fit.</p>
+            <closer>
+               <signed>Thomas Violet.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>
+               <hi>I did about</hi> Auguſt <hi>laſt</hi> 1661. <hi>humbly preſent to the Right Honora<g ref="char:EOLhyphen"/>ble the Lord Treaſurer, and the Lord</hi> Aſhley, <hi>ſeveral other Pa<g ref="char:EOLhyphen"/>pers for the Regulating of Your Majeſties Cuſtoms, and concerning a debt demanded of Your Majeſty, by ſome of the Commiſſioners of the Cuſtoms, being two hundred and fifty thouſand pounds, to advance one hundred and fifty thouſand pounds, and ſo make the debt four hundred thouſand pound<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and have Your Majeſties Cuſtoms tyed for the ſame, as will appear by the Commiſſioners printed Paper, to which I humbly refer. I humbly deſired my Lord Treaſurer, that the Farmers Accompts which were brought into the Parliament</hi> 1642. <hi>may be ſtated and ſetled from</hi> 1626. <hi>to</hi> 1639. <hi>the Committees Reports viewed and examined, concerning Your Majeſties Cuſtoms, before ſo great a debt was allowed, I humbly preſented the great damage to Your Majeſty, by ingaging and incumbering Your Cuſtoms in ſo great a debt, to which Vaper I humbly refer. I pray God that may be done herein, which is beſt for Your Majeſties ſervice, and the Good of the Kingdome in general, without by reſpects to particular Perſons.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:45257:6"/>
+            <p>In the moneth of <hi>May</hi> 1661. I humbly petitioned your Majeſtie, by your Royal Fathers Command and Order to me at <hi>Hampton-Court,</hi> to be pleaſed to take notice how his Cuſtomes had bin managed from 1626. to 1639. which buſineſſe your Petitioner delivered in writing, and alſo that your Majeſties Cuſtomes in that preſent Year 1660. was unduly managed by the indirect practices of ſome perſons, to your Majeſties damage one hundred thouſand pounds a year, for want of good Order and Rule, in the carriage of that great buſineſs of your Cuſtoms. Your Majeſtie was graciouſly pleaſed to refer your Petitioner to the Right Honourable the Earle of <hi>Clarendon</hi> Lord High Chancellor of <hi>England,</hi> the Earle of <hi>Southampton</hi> Lord High Treaſurer of <hi>England,</hi> and the Lord Privy Seal, who are to take the ſame into conſideration, and thereupon to certifie your Majeſtie their opinions thereof, and what is fit to be done therein, for the good of his Maje<g ref="char:EOLhyphen"/>ſties ſervice.</p>
+            <p>Since which time, their Lordſhips have met and appointed me to ab<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eviate the ſame, which I have done, and gave them every one a Bre<g ref="char:EOLhyphen"/>viate of what I humbly deſire, for the regulating of your Majeſties Cu<g ref="char:EOLhyphen"/>ſtomes for the future: ſince which time the Parliament have ſetled the Cuſtomes on your Majeſtie, and I humbly hope and pray for ſuch an Act of Parliament, as ſhall redreſſe all former miſcarriages, whereby your Majeſtie hath been defrauded of your Cuſtomes.</p>
+            <p>Now this being well managed, is the chief Branch of your Maieſties Revenew, and the Support of Trade and Navigation?</p>
+            <p>
+               <hi>My Humble Requeſt is,</hi> that the Officers and Commiſſioners for the future may be confined to a moderate ſallery, and all frauds and tricks of under-officers may for the future be prevented, if the Cuſtomes be not narrowlier watched, and the Moneys all converted to your Maie<g ref="char:EOLhyphen"/>ſties uſe, which formerly to the value of near one million of money, was from 1626. to 1639. converted into private and particular mens hands, to the ruine of his late Majeſty in his great affairs, as I can particularly prove yearly if it be required above fourſcore thouſand pounds a year, converted into private purſes, this deſtroyed the King, your Royal Fathers Exchequer, and hindred all his Maieſties buſineſs yearly: Theſe very miſchiefs if they be not timely prevented by Your Maieſty and the Parliament, may work the ſame dangerous effects again as they did formerly, and may be repented when it is too late.</p>
+            <p>I have in this and many other particulars ſtudied the publike-Inte<g ref="char:EOLhyphen"/>reſt at my vaſt expence, and have had daily promiſes and references for my ſatisfaction, but no performances, of which I am not a little ſenſible.</p>
+            <p>And I humbly hope whilſt I make it my ſtudie to promote your Ma<g ref="char:EOLhyphen"/>jeſties ſervice, and the good of the Kingdom; my long Impriſonment,
+<pb n="10" facs="tcp:45257:7"/>and loſſes for Your Maieſties Father,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ur Majeſty <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s now all <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mage of the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ny that was <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>de by the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mp Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt, which <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l be near <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>000 pound. I had had <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Commiſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>paſſed to be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>giſter, I <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uld have all <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſeveral per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s buying <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t ſilver to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e converted into coyn, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve pay'd the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nage, and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed your Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y this mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it is an un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ferable <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arge for <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ur Majeſty <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pay the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nage: there many ſcore <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſand <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>unds a year <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ported into <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gland of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d and ſilver, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ich I would <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ce to be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ined, had I <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Commiſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>all but what <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ur Majeſtie <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ences. Alſo <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re will be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ny hundred <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſes acted in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cuſtome <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſineſs, which <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll never be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſcovered, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thout your <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>titioner be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ployed. I <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mbly rely on your Majeſt'es promiſe, it being for Your profit to imploy me in the Mint and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſtom buſineſs, during your Majeſties pleaſure.</note> and charges for attendance to procure my often promiſed ſatisfaction; there may that juſt and mer<g ref="char:EOLhyphen"/>ciful care be taken of me and my ſuffering, that I may not conclude with the ruine of my own perſonal Eſtate and Intereſt.</p>
+            <p>I have ſuffered eight years Impriſonment, and loſt to the value of twentie thouſand pounds for your Maieſties Royal Father, and I have been promiſed from time to time ſince your Maieſties happy arrival into <hi>England,</hi> imployments in the Mint and Cuſtomes for my ſatis<g ref="char:EOLhyphen"/>faction.</p>
+            <p>I humbly rely on your Maieſtie, and ſome of your Honourable Councellors, promiſes to me for my imployment in your Maieſties Mint and Cuſtomes; your Petitioner hath the Certificate of all your Ma<g ref="char:EOLhyphen"/>ieſties Officers of the Mint, for my imployment as Regiſter, if it were paſſed your Maieſties Seal.</p>
+            <p>Upon my life, I will make your Maieſties mint to work again, and prevent the tranſporting many ſcore thouſand pounds a year of Gold and Silver that is daily tranſported without your Maieſties Licence; which I have not now power to do, becauſe I am not imployed by your Maieſties Commiſſion, if I do not do it, I will loſe my imployment, I humbly deſire my Commiſſion but during your Maieſties pleaſure.</p>
+            <p>If your Maieſtie imploy me in your Cuſtome buſineſs, if I ſave not your Maieſtie one hundred thouſand pounds a year more then you made laſt year, 1660. I will ſerve your Maieſtie in your Cuſtomes, and ask never a penny ſalary; Provided I may have my Lord Trea<g ref="char:EOLhyphen"/>ſurers Warrant to ſeize all Gold and Silver exported without your Maieſties licence, and to ſeize all Goods and Merchandiſe exported and Imported before the Cuſtomes be paid; and that ſtrict Rules and Orders be obſerved for the future preventing of frauds by Order of Parliament to force all. I will put in good Securitie to account iuſtly to your Maieſtie for one half of the ſeiſures which I and my Depu<g ref="char:EOLhyphen"/>ties ſhall ſeize. Your Maieſtie is at fiftie thouſand pounds a Year ſalarie for Officers to ſee the Cuſtome paid, and yet your Maieſtie is daily by their ignorance or breach of Truſt deceived above one hundred thou<g ref="char:EOLhyphen"/>ſand pounds a year.</p>
+            <p>And thus I have humbly undertaken to the Right Honourable the Lord Treaſurer to ſerve Your Maieſtie without a Fee, and prevent in great part theſe abuſes, and make the Merchants weary of the trade of ſtealing Cuſtome.</p>
+            <p>And yet my Warrant hangs in ſuſpence, being referred and referred again; In the mean time I am deferred, and your Maieſtie daily co<g ref="char:EOLhyphen"/>zened in your Cuſtoms one hundred thouſand pounds a year and a<g ref="char:EOLhyphen"/>bove: If I get one pennie Fee from your Maieſtie, your Maieſtie ſhall
+<pb n="11" facs="tcp:45257:7"/>ſave it upon the peril of my life a hundred fold as much.</p>
+            <p>I can prove your Royal Fathers commands to me at <hi>Hampton Court</hi> to make your Majeſty truly acquainted how his Majeſty was coſened in his Cuſtoms from 1626. to 1639. many hundred thouſand pound, which his Royal Maieſty found to be too true, when it was too late, and com<g ref="char:EOLhyphen"/>manded me upon my allegiance, I ſhould acquaint your Maieſty with the particular wayes how and by whom he was deceived in the Cuſtoms, and that upon the penalty of my allegiance and life, as I would anſwer to God and your Maieſty, I ſhould truly preſent theſe abuſes to your Ma<g ref="char:EOLhyphen"/>ieſty; this was two dayes before your Royall Father went to the <hi>Iſlo of Wight,</hi> in the preſence of Mr. <hi>Hugh Hen,</hi> and Mr. <hi>Brogden:</hi> Mr. <hi>Brogden</hi> is living, and brought up to Sir <hi>Lewis Dives</hi> your Fathers Royal Letter, to command Sir <hi>Lewis Dives</hi> to ſignifie to your Maieſty how highly your Royal Father did apprehend he had been deceived in his Cuſtoms, from 1626. to 1639. and your Maieſties Royal Father deſired your Maieſty to look carefully after your Cuſtoms; I humbly refer my ſelf to the Hono<g ref="char:EOLhyphen"/>rable Gentleman Sir <hi>Lewis Dives</hi> report to your Maieſty touching this buſineſs.</p>
+         </div>
+         <div type="text">
+            <p>
+               <hi>May it pleaſe your Majeſtie, I ventured my life to bring up your Majeſties Royal Fathers Letter to the Citie of</hi> Lon<g ref="char:EOLhyphen"/>don <hi>from</hi> Oxford, 1643. <hi>to the Lord Major, and Com<g ref="char:EOLhyphen"/>mon Councel of</hi> London, <hi>there being the ſame moneth one of your Majeſties Fathers meſſengers murthered at</hi> London, <hi>for bringing from</hi> Oxford <hi>your Majeſties Royal Fathers Pre<g ref="char:EOLhyphen"/>clamations.</hi>
+            </p>
+            <p>
+               <hi>I ventured my life when I was a Priſoner in the Tower, to make my eſcape to your Majeſties Royal Father, and to re<g ref="char:EOLhyphen"/>turn back a Priſoner to the Tower, upon his eſpecial command, to bring his Majeſty theſe Papers concerning the Cuſtome bu<g ref="char:EOLhyphen"/>ſineſs, as Sir</hi> Lewis Dives <hi>can witneſs.</hi>
+            </p>
+            <p>
+               <hi>And now may it pleaſe your Majeſtie, for obeying your Royal Fathers command to me upon my Allegiance and Life, that without favour, mincing, or flatterie, I ſhould tell your Majeſtie the truth, how your Royal Father was abuſed in his
+<pb n="12" facs="tcp:45257:8"/>Cuſtomes, as</hi> Sir Lewis Dives <hi>and</hi> Mr Brogden <hi>knows the bleſſed Kings command to me that I ſhould do it, it being his Majeſties laſt words he ſpake to me; I have in this alſo hum<g ref="char:EOLhyphen"/>bly obeyed; and put my ſelf in great jeopardie, that ſo I might diſcharge my faithful promiſe, and perform your Royal Fa<g ref="char:EOLhyphen"/>thers commands, I know what a many powerful enemies I have raiſed by ſpeaking and printing this truth concerning the Cu<g ref="char:EOLhyphen"/>ſtoms if I have not your Majeſties protection. I humblie hope the profit and ſafetie coming to your Majeſtie by this In<g ref="char:EOLhyphen"/>formation, together with Your Royall Fathers deſire to you in this buſineſs ſhall protect me, whoſe great and bitter afflictions had made him as wiſe as King</hi> Solomon.</p>
+            <p>
+               <hi>When he told me before</hi> Mr. Brogden, <hi>and at the ſame time he wrote up to Sir</hi> Lewis Dives <hi>to tell him he was a<g ref="char:EOLhyphen"/>fraid this information of the ill managing of his Majeſties Cuſtomes did come too late for him; but it would be moſt ſea<g ref="char:EOLhyphen"/>ſonable to Your Majeſty, charging Sir</hi> Lewis Dives <hi>to pre<g ref="char:EOLhyphen"/>ſent me to Your Majeſtie to make this out to be a certain truth; and withall his Majeſtie telling me I will write to Sir</hi> Lewis Dives <hi>to preſent your faithful ſervices and ſufferings to the Prince, and ſerve him faithfully as you have done me, and do not doubt but God will put it into his heart to remember and reward you for my ſake, to do that for you I would and ſhould have done, but alas I cannot help my ſelf in this condition as I am, Sir</hi> Lew is Dives <hi>will be beleeved in what he ſhall te<g ref="char:EOLhyphen"/>ſtifie for you to the Prince; this teſtimony from Sir</hi> Lewis Dives <hi>to Your Majeſtie, I humbly hope will make Your Ma<g ref="char:EOLhyphen"/>jeſtie to protectime from the malice and envie of ſome men.</hi>
+            </p>
+            <p>
+               <hi>When Sir</hi> Lewis Dives <hi>made Your Majeſty acquainted in</hi>
+               <pb n="13" facs="tcp:45257:8"/>May <hi>laſt,</hi> 1660 <hi>with this buſineſs; Your Majeſtie was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to declare your Royal pleaſure, and to promiſe that if I did prove what I ſaid, That Your Majesties Royal Father was deceived in his Cuſtomes from</hi> 1626 <hi>to</hi> 1639 <hi>as I ſet forth in my Writing; And that Your Majestie was defrauded by ſeveral undue practiſes this laſt Year</hi> 1660 <hi>in Your Customes above two thouſand pounds a week, or an hundred thouſand pounds a year; and if I did ſhew ways to prevent the ſame, and could advance your Cuſtom one hundred thouſand pounds more then the Cuſtome made</hi> 1660. <hi>Upon Your Majeſties Royal Word Your Majeſtie would ſee me paid to the value of twentie thouſand pounds, or imploy me a Commiſsioner in the Cuſtomes and Mint, with a Fee to that value, and charged Sir</hi> Lewis Dives <hi>I ſhould do it as ſoon as I could, and Your Majeſtie upon your Kingly Word would keep your promiſe.</hi>
+            </p>
+            <p>
+               <hi>This Narrative will clearly prove to Your Majeſtie I have in every thing performed my undertaking; Firſt, I have proved Your Royal Father defrauded for thirteen Years about eightie thouſand pounds a year, and which way the Monie was ſpent. Secondly, I have proved your Majeſtie defrau<g ref="char:EOLhyphen"/>ded</hi> Anno 1660. <hi>in the Cuſtomes one hundred thouſand pounds a year, and ſet down the ways to prevent it: And if your Majeſtie make me a Commiſsioner, and give me Power, upon my Life I will make your Cuſtome ſixſcore thouſand pounds a year, more then they made</hi> 1660. <hi>My Truſt is next to God wholly in your Majeſtie; That you will con<g ref="char:EOLhyphen"/>ſider my fidelitie, loſſes, ſuffering<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; impriſonments, and to re<g ref="char:EOLhyphen"/>ward me according to your Royal Fathers requeſt to your Majeſtie touching me:</hi>
+            </p>
+            <pb n="14" facs="tcp:45257:9"/>
+            <p>And if <hi>I</hi> be required by your Maieſtie, the Parliament, or your Ma<g ref="char:EOLhyphen"/>ieſties Privie Councel: I ſhall print the ſubſtance of the particular Narrative which <hi>I</hi> delivered to his Maieſtie, 1647. at <hi>Hampton Court,</hi> concerning the managing the Cuſtoms from 1626. to 1639. and his Ma<g ref="char:EOLhyphen"/>ieſties charge to me, and Sir <hi>Lewis Dives,</hi> fully to acquaint you with the ſame, &amp; the miſcheifs that befel your Majeſties Royal Father in his affairs by thoſe miſcarriages, or deliver it to your Maieſties Privie Councel in Writing if I be required to do it: For your Maieſties ſervice I ſhall wait on Mr. Secretary <hi>Nicholas</hi> to receive your Maieſties commands, whether I ſhall print the aforeſaid Narrative, or deliver it to your Maieſties Privy Council in Writing, to the end theſe abuſes in the Cuſtome-Houſe may be prevented for the future; as your Maieſtie pleaſe to com<g ref="char:EOLhyphen"/>mand me, that I will perform, and ever reſt, Your Maieſties moſt duti<g ref="char:EOLhyphen"/>ful and obedient Subiect as long as I live,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 25. 1661/2</date>
+               </dateline>
+               <signed>THO. VIOLET.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45257:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
